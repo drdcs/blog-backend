@@ -25,3 +25,9 @@ So, we need to introduce a table called user_roles , which keeps the user_id and
 
 ![Screenshot](jwt.png)
 ![Screenshot](jwt-steps.png)
+
+<h3> Versioning: </h3>
+<p>
+    <l1> URI Path </l1> 
+    <l1> Query Parameter </l1>
+</p>
